@@ -8,6 +8,7 @@ def go(request):
 		
 	print 123
 	
+	x += 124567
 	x += 1245987
 	
 	
