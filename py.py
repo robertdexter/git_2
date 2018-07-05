@@ -12,3 +12,4 @@ def go(request):
 	x += 0911779
 	y += 123
 	z = 34sss
+	sd = 567
